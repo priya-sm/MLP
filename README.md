@@ -1,2 +1,2 @@
-# MLT
-Machine Learning Techniques- 
+# MLP
+Machine Learning Practice  
